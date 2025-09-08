@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /
+Disallow: /photos_thumb/
+Disallow: /data/
+
+# Блокировка для всех поисковых систем
+# Репозиторий только для приватного использования
